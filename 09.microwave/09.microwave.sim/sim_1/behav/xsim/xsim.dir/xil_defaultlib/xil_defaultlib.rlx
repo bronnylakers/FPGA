@@ -1,0 +1,14 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+D:/project/FPGA/09.microwave/09.microwave.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+D:/project/FPGA/09.microwave/09.microwave.srcs/sim_1/new/tb_microwave.v,1752478796,verilog,,,,tb_top_microwave,,,,,,,,
+D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/imports/Desktop/pwm_dcmotor.v,1752458742,verilog,,D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/new/pwm_servo.v,,pwm_dcmotor,,,,,,,,
+D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/imports/new/button_debounce.v,1752213798,verilog,,D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/new/buzzer.v,,button_debounce,,,,,,,,
+D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/imports/new/fnd_controller.v,1752230015,verilog,,D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/imports/Desktop/pwm_dcmotor.v,,bin2bcd;circle_data;fnd_controller;fnd_digit_display;fnd_digit_select,,,,,,,,
+D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/imports/new/tick_generator.v,1752211158,verilog,,D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/new/top_microwave.v,,tick_generator,,,,,,,,
+D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/new/buzzer.v,1752462192,verilog,,D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/new/clock_setting.v,,buzzer,,,,,,,,
+D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/new/clock_setting.v,1752458740,verilog,,D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/imports/new/fnd_controller.v,,clock_setting,,,,,,,,
+D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/new/pwm_servo.v,1752458744,verilog,,D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/imports/new/tick_generator.v,,pwm_servo,,,,,,,,
+D:/project/FPGA/09.microwave/09.microwave.srcs/sources_1/new/top_microwave.v,1752462192,verilog,,D:/project/FPGA/09.microwave/09.microwave.srcs/sim_1/new/tb_microwave.v,,top_microwave,,,,,,,,

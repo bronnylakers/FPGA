@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../09.microwave.srcs/sources_1/imports/new/button_debounce.v" \
+"../../../../09.microwave.srcs/sources_1/new/buzzer.v" \
+"../../../../09.microwave.srcs/sources_1/new/clock_setting.v" \
+"../../../../09.microwave.srcs/sources_1/imports/new/fnd_controller.v" \
+"../../../../09.microwave.srcs/sources_1/imports/Desktop/pwm_dcmotor.v" \
+"../../../../09.microwave.srcs/sources_1/new/pwm_servo.v" \
+"../../../../09.microwave.srcs/sources_1/imports/new/tick_generator.v" \
+"../../../../09.microwave.srcs/sources_1/new/top_microwave.v" \
+"../../../../09.microwave.srcs/sim_1/new/tb_microwave.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
